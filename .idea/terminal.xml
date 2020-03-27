@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TerminalProjectOptionsProvider">
+    <envs>
+      <env key="Path" value="C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Plantronics\Spokes3G\;C:\Program Files (x86)\Boxcryptor\bin\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\Users\ruizs\AppData\Local\Android\Sdk\platform-tools;C:\Users\ruizs\AppData\Local\Microsoft\WindowsApps;C:\Users\ruizs\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ruizs\AppData\Local\GitHubDesktop\bin" />
+    </envs>
+  </component>
+</project>
